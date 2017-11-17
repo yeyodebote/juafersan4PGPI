@@ -6,3 +6,7 @@ juafersan4
 
 ### email
 juafersan4@gmail.com
+
+### prueba1
+
+editando README.MD desde consola
